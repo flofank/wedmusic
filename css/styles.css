@@ -1,0 +1,48 @@
+* {
+  font-family: Arial;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+body {
+  padding-top: 80px;
+}
+header {
+  position: fixed;
+  top: 0px;
+  height: 80px;
+  width: 100%;
+  background: #333;
+  border-bottom: 2px solid #222;
+}
+section {
+  padding: 80px 0px;
+  background: #111;
+}
+section:nth-of-type(odd) {
+  text-align: right;
+}
+section div {
+  width: 1000px;
+  margin: 0 auto;
+}
+section div.title {
+  font-size: 45pt;
+  padding-bottom: 20px;
+  color: #666;
+}
+section div.content {
+  color: #555;
+}
+div.image_spacer {
+  width: 100%;
+  max-height: 600px;
+  overflow: hidden;
+}
+div.image_spacer img {
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+}

@@ -1,0 +1,54 @@
+* {
+  font-family: Arial;
+}
+
+@header-height: 80px;
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+body {
+  padding-top: @header-height;
+}
+
+header {
+  position: fixed;
+  top: 0px;
+  height: @header-height;
+  width: 100%;
+  background: #333;
+  border-bottom: 2px solid #222;
+}
+
+section {
+  padding: 80px 0px;
+  background: #111;
+  &:nth-of-type(odd) {
+    //background: #555;
+    text-align: right;
+  }
+  div {
+    width: 1000px;
+    margin: 0 auto;
+    &.title {
+      font-size: 45pt;
+      padding-bottom: 20px;
+      color: #666;
+    }
+    &.content {
+      color: #555;
+    }
+  }
+}
+
+div.image_spacer {
+  width: 100%;
+  max-height: 600px;
+  overflow: hidden;
+  img {
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+  }
+}
