@@ -2,7 +2,9 @@
   font-family: Arial;
 }
 
+@body-background: #111;
 @header-height: 80px;
+@main-color: #666;
 
 html, body {
   margin: 0;
@@ -17,27 +19,44 @@ header {
   top: 0px;
   height: @header-height;
   width: 100%;
-  background: #333;
-  border-bottom: 2px solid #222;
+  background: linear-gradient(#999, #444 10%, @body-background);
+  //border-bottom: 2px solid #222;
+  div#nav {
+    float: right;
+    a {
+      float: left;
+      color: #DDD;
+      line-height: @header-height;
+      text-decoration: none;
+      padding-right: 40px;
+      font-size: 20px;
+    }
+  }
+
 }
 
 section {
   padding: 80px 0px;
-  background: #111;
+  background: @body-background;
   &:nth-of-type(odd) {
     //background: #555;
     text-align: right;
   }
-  div {
+  >div {
     width: 1000px;
     margin: 0 auto;
     &.title {
       font-size: 45pt;
       padding-bottom: 20px;
-      color: #666;
+      color: @main-color;
     }
     &.content {
       color: #555;
+      img {
+        &.musician {
+          width: 100%;
+        }
+      }
     }
   }
 }
@@ -50,5 +69,45 @@ div.image_spacer {
     width: 100%;
     padding: 0px;
     margin: 0px;
+  }
+}
+
+footer {
+  background: @body-background;
+  ul {
+    padding: 20px;
+    margin: 0 auto;
+    color: @main-color;
+    list-style: none;
+    text-align: center;
+    li {
+      margin: 4px;
+      a {
+        color: @main-color;
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+.float_container {
+  clear: both;
+  width: 100%;
+  >.small {
+    width: 30%;
+  }
+  >.wide {
+    width: 70%;
+  }
+  >.left {
+    float: left;
+  }
+  >.right {
+    float: right;
+  }
+  &:after {
+    content:'';
+    display:block;
+    clear: both;
   }
 }
