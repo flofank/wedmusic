@@ -2,8 +2,10 @@
   font-family: Arial;
 }
 
+//@body-background: #FFF;
 @body-background: #111;
 @header-height: 80px;
+//@main-color: #AAA;
 @main-color: #666;
 
 html, body {
@@ -19,12 +21,14 @@ header {
   top: 0px;
   height: @header-height;
   width: 100%;
+  //background: white;
+  //box-shadow: #666 0px 1px 5px 0px;
   background: linear-gradient(#999, #444 10%, @body-background);
-  //border-bottom: 2px solid #222;
   div#nav {
     float: right;
     a {
       float: left;
+      //color: #888;
       color: #DDD;
       line-height: @header-height;
       text-decoration: none;
@@ -51,7 +55,7 @@ section {
       color: @main-color;
     }
     &.content {
-      color: #555;
+      color: @main-color;
       img {
         &.musician {
           width: 100%;
