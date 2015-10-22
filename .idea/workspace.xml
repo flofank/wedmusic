@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6b1d2d6-fb85-44e4-8505-60736412a484" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/languages/ru.php" afterPath="$PROJECT_DIR$/panel/app/languages/ru.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/.travis.yml" afterPath="$PROJECT_DIR$/kirby/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/.travis.yml" afterPath="$PROJECT_DIR$/kirby/toolkit/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/test/ATest.php" afterPath="$PROJECT_DIR$/kirby/toolkit/test/ATest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/test/BitmaskTest.php" afterPath="$PROJECT_DIR$/kirby/toolkit/test/BitmaskTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/test/CTest.php" afterPath="$PROJECT_DIR$/kirby/toolkit/test/CTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/test/CollectionTest.php" afterPath="$PROJECT_DIR$/kirby/toolkit/test/CollectionTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/test/ContentTest.php" afterPath="$PROJECT_DIR$/kirby/test/ContentTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/test/DbTest.php" afterPath="$PROJECT_DIR$/kirby/toolkit/test/DbTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/test/DimensionsTest.php" afterPath="$PROJECT_DIR$/kirby/toolkit/test/DimensionsTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/test/DirTest.php" afterPath="$PROJECT_DIR$/kirby/toolkit/test/DirTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/test/EmbedTest.php" afterPath="$PROJECT_DIR$/kirby/toolkit/test/EmbedTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/test/ErrorReportingTest.php" afterPath="$PROJECT_DIR$/kirby/toolkit/test/ErrorReportingTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/test/FTest.php" afterPath="$PROJECT_DIR$/kirby/toolkit/test/FTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/test/FieldTest.php" afterPath="$PROJECT_DIR$/kirby/test/FieldTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/test/FileTest.php" afterPath="$PROJECT_DIR$/kirby/test/FileTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/test/FilesTest.php" afterPath="$PROJECT_DIR$/kirby/test/FilesTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/test/HTMLTest.php" afterPath="$PROJECT_DIR$/kirby/toolkit/test/HTMLTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/test/HelpersTest.php" afterPath="$PROJECT_DIR$/kirby/toolkit/test/HelpersTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/test/KirbyTest.php" afterPath="$PROJECT_DIR$/kirby/test/KirbyTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/test/KirbytextTest.php" afterPath="$PROJECT_DIR$/kirby/test/KirbytextTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/test/LTest.php" afterPath="$PROJECT_DIR$/kirby/toolkit/test/LTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/test/MediaTest.php" afterPath="$PROJECT_DIR$/kirby/toolkit/test/MediaTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/test/ModelsTest.php" afterPath="$PROJECT_DIR$/kirby/test/ModelsTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/test/ObjTest.php" afterPath="$PROJECT_DIR$/kirby/toolkit/test/ObjTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/test/PageTest.php" afterPath="$PROJECT_DIR$/kirby/test/PageTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/test/PaginationTest.php" afterPath="$PROJECT_DIR$/kirby/toolkit/test/PaginationTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/test/PasswordTest.php" afterPath="$PROJECT_DIR$/kirby/toolkit/test/PasswordTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/test/RTest.php" afterPath="$PROJECT_DIR$/kirby/toolkit/test/RTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/test/RootsTest.php" afterPath="$PROJECT_DIR$/kirby/test/RootsTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/test/ServerTest.php" afterPath="$PROJECT_DIR$/kirby/toolkit/test/ServerTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/vendors/abeautifulsite/SimpleImage.php" afterPath="$PROJECT_DIR$/kirby/toolkit/vendors/abeautifulsite/SimpleImage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/test/SiteTest.php" afterPath="$PROJECT_DIR$/kirby/test/SiteTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/test/StrTest.php" afterPath="$PROJECT_DIR$/kirby/toolkit/test/StrTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/test/SystemTest.php" afterPath="$PROJECT_DIR$/kirby/toolkit/test/SystemTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/test/TimerTest.php" afterPath="$PROJECT_DIR$/kirby/toolkit/test/TimerTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/test/UrlTest.php" afterPath="$PROJECT_DIR$/kirby/toolkit/test/UrlTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/test/UrlsTest.php" afterPath="$PROJECT_DIR$/kirby/test/UrlsTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/test/VTest.php" afterPath="$PROJECT_DIR$/kirby/toolkit/test/VTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/test/VisitorTest.php" afterPath="$PROJECT_DIR$/kirby/toolkit/test/VisitorTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/test/XmlTest.php" afterPath="$PROJECT_DIR$/kirby/toolkit/test/XmlTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_autocomplete.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_autocomplete.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_avatar.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_avatar.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_breadcrumb.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_breadcrumb.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_btn.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_btn.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_dashboard.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_dashboard.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_dropdown.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_dropdown.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_dropzone.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_dropzone.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_file.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_file.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_files.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_files.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_fileselector.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_fileselector.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_fileview.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_fileview.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_fontawesome.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_fontawesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_fonts.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_fonts.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_form.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_form.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_grid.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_grid.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_headlines.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_headlines.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_hgroup.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_hgroup.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_icon.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_icon.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_instruction.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_instruction.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_items.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_items.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_languages.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_languages.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_main.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_main.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_message.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_message.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_misc.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_misc.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_modal.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_modal.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_nav.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_nav.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_pagination.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_pagination.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_reset.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_reset.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_search.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_search.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_shiv.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_shiv.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_sidebar.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_sidebar.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_subpages.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_subpages.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_tags.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_tags.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_text.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_text.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_topbar.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_topbar.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/components/_typography.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/components/_typography.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/test/etc/site/models/a.php" afterPath="$PROJECT_DIR$/kirby/test/etc/site/models/a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/test/etc/site/tags/a.php" afterPath="$PROJECT_DIR$/kirby/test/etc/site/tags/a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/a.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/test/etc/content/1-a/a.txt" afterPath="$PROJECT_DIR$/kirby/test/etc/content/1-a/a.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/widgets/account/account.html.php" afterPath="$PROJECT_DIR$/panel/app/widgets/account/account.html.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/widgets/account/account.php" afterPath="$PROJECT_DIR$/panel/app/widgets/account/account.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/views/pages/add.php" afterPath="$PROJECT_DIR$/panel/app/views/pages/add.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/cache/driver/apc.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/cache/driver/apc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/lib/api.php" afterPath="$PROJECT_DIR$/panel/app/lib/api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/routes/api.php" afterPath="$PROJECT_DIR$/panel/app/routes/api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/controllers/views/app.php" afterPath="$PROJECT_DIR$/panel/app/controllers/views/app.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/layouts/app.php" afterPath="$PROJECT_DIR$/panel/app/layouts/app.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/languages/ar.php" afterPath="$PROJECT_DIR$/panel/app/languages/ar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/lib/assets.php" afterPath="$PROJECT_DIR$/panel/app/lib/assets.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/controllers/views/auth.php" afterPath="$PROJECT_DIR$/panel/app/controllers/views/auth.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/textarea/assets/js/autosize.js" afterPath="$PROJECT_DIR$/panel/app/fields/textarea/assets/js/autosize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/views/users/avatar.php" afterPath="$PROJECT_DIR$/panel/app/views/users/avatar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/controllers/api/avatars.php" afterPath="$PROJECT_DIR$/panel/app/controllers/api/avatars.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/test/etc/site/tags/b.php" afterPath="$PROJECT_DIR$/kirby/test/etc/site/tags/b.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/base/base.php" afterPath="$PROJECT_DIR$/panel/app/fields/base/base.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/bitmask.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/bitmask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/lib/blueprint.php" afterPath="$PROJECT_DIR$/panel/app/lib/blueprint.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/bootstrap.php" afterPath="$PROJECT_DIR$/kirby/bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/test/lib/bootstrap.php" afterPath="$PROJECT_DIR$/kirby/test/lib/bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/bootstrap.php" afterPath="$PROJECT_DIR$/kirby/toolkit/bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/test/lib/bootstrap.php" afterPath="$PROJECT_DIR$/kirby/toolkit/test/lib/bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/bootstrap.php" afterPath="$PROJECT_DIR$/panel/app/bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/components/breadcrumb.js" afterPath="$PROJECT_DIR$/panel/assets/js/components/breadcrumb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/snippets/breadcrumb.php" afterPath="$PROJECT_DIR$/panel/app/snippets/breadcrumb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/snippets/pages/breadcrumb.php" afterPath="$PROJECT_DIR$/panel/app/snippets/pages/breadcrumb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/brick.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/brick.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/textarea/buttons.php" afterPath="$PROJECT_DIR$/panel/app/fields/textarea/buttons.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/c.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/c.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/cache.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/exif/camera.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/exif/camera.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/views/installation/check.php" afterPath="$PROJECT_DIR$/panel/app/views/installation/check.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/checkbox/checkbox.php" afterPath="$PROJECT_DIR$/panel/app/fields/checkbox/checkbox.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/checkboxes/checkboxes.php" afterPath="$PROJECT_DIR$/panel/app/fields/checkboxes/checkboxes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/core/children.php" afterPath="$PROJECT_DIR$/kirby/core/children.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/collection.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/collection.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/composer.json" afterPath="$PROJECT_DIR$/kirby/toolkit/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/config/config.js" afterPath="$PROJECT_DIR$/panel/assets/js/config/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/test/etc/site/config/config.php" afterPath="$PROJECT_DIR$/kirby/test/etc/site/config/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/config/config.php" afterPath="$PROJECT_DIR$/site/config/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/branches/multilang/content.php" afterPath="$PROJECT_DIR$/kirby/branches/multilang/content.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/core/content.php" afterPath="$PROJECT_DIR$/kirby/core/content.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/lib/controller.php" afterPath="$PROJECT_DIR$/panel/app/lib/controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/cookie.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/cookie.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/crypt.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/crypt.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/languages/cz.php" afterPath="$PROJECT_DIR$/panel/app/languages/cz.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/languages/da.php" afterPath="$PROJECT_DIR$/panel/app/languages/da.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/controllers/dashboard.js" afterPath="$PROJECT_DIR$/panel/assets/js/controllers/dashboard.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/controllers/views/dashboard.php" afterPath="$PROJECT_DIR$/panel/app/controllers/views/dashboard.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/data.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/data.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/database.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/date/assets/js/date.js" afterPath="$PROJECT_DIR$/panel/app/fields/date/assets/js/date.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/date/date.php" afterPath="$PROJECT_DIR$/panel/app/fields/date/date.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/db.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/db.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/languages/de.php" afterPath="$PROJECT_DIR$/panel/app/languages/de.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/branches/default.php" afterPath="$PROJECT_DIR$/kirby/branches/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/blueprints/default.php" afterPath="$PROJECT_DIR$/site/blueprints/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/templates/default.php" afterPath="$PROJECT_DIR$/site/templates/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/views/users/delete-avatar.php" afterPath="$PROJECT_DIR$/panel/app/views/users/delete-avatar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/views/files/delete.php" afterPath="$PROJECT_DIR$/panel/app/views/files/delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/views/pages/delete.php" afterPath="$PROJECT_DIR$/panel/app/views/pages/delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/views/users/delete.php" afterPath="$PROJECT_DIR$/panel/app/views/users/delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/detect.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/detect.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/dimensions.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/dimensions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/dir.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/dir.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/cache/driver.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/cache/driver.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/components/dropdown.js" afterPath="$PROJECT_DIR$/panel/assets/js/components/dropdown.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/components/dropzone.js" afterPath="$PROJECT_DIR$/panel/assets/js/components/dropzone.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/views/users/edit.php" afterPath="$PROJECT_DIR$/panel/app/views/users/edit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/textarea/assets/js/editor.js" afterPath="$PROJECT_DIR$/panel/app/fields/textarea/assets/js/editor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/controllers/editor.js" afterPath="$PROJECT_DIR$/panel/assets/js/controllers/editor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/controllers/views/editor.php" afterPath="$PROJECT_DIR$/panel/app/controllers/views/editor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/email.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/email.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/email/email.php" afterPath="$PROJECT_DIR$/panel/app/fields/email/email.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/views/editor/email.php" afterPath="$PROJECT_DIR$/panel/app/views/editor/email.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/embed.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/embed.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/languages/en.php" afterPath="$PROJECT_DIR$/panel/app/languages/en.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/error.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/error.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/layouts/error.php" afterPath="$PROJECT_DIR$/panel/app/layouts/error.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/blueprints/error.php" afterPath="$PROJECT_DIR$/site/blueprints/error.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/error/error.txt" afterPath="$PROJECT_DIR$/content/error/error.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/errorreporting.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/errorreporting.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/controllers/errors.js" afterPath="$PROJECT_DIR$/panel/assets/js/controllers/errors.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/controllers/api/errors.php" afterPath="$PROJECT_DIR$/panel/app/controllers/api/errors.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/controllers/views/errors.php" afterPath="$PROJECT_DIR$/panel/app/controllers/views/errors.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/languages/es_LA.php" afterPath="$PROJECT_DIR$/panel/app/languages/es_LA.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/escape.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/escape.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/test/etc/system/executable.sh" afterPath="$PROJECT_DIR$/kirby/toolkit/test/etc/system/executable.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/exif.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/exif.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/test/etc/kirbytext/multiline-parenthesis/expected.html" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/multiline-parenthesis/expected.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/test/etc/kirbytext/non-matching-parenthesises/expected.html" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/non-matching-parenthesises/expected.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/test/etc/kirbytext/script-tag/expected.html" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/script-tag/expected.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/f.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/languages/fa.php" afterPath="$PROJECT_DIR$/panel/app/languages/fa.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/languages/fi.php" afterPath="$PROJECT_DIR$/panel/app/languages/fi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/core/field.php" afterPath="$PROJECT_DIR$/kirby/core/field.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/lib/blueprint/field.php" afterPath="$PROJECT_DIR$/panel/app/lib/blueprint/field.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/lib/fieldoptions.php" afterPath="$PROJECT_DIR$/panel/app/lib/fieldoptions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/lib/blueprint/fields.php" afterPath="$PROJECT_DIR$/panel/app/lib/blueprint/fields.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/models/file.js" afterPath="$PROJECT_DIR$/panel/assets/js/models/file.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/branches/multilang/file.php" afterPath="$PROJECT_DIR$/kirby/branches/multilang/file.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/core/file.php" afterPath="$PROJECT_DIR$/kirby/core/file.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/cache/driver/file.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/cache/driver/file.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/lib/filedata.php" afterPath="$PROJECT_DIR$/panel/app/lib/filedata.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/controllers/files.js" afterPath="$PROJECT_DIR$/panel/assets/js/controllers/files.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/core/files.php" afterPath="$PROJECT_DIR$/kirby/core/files.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/controllers/api/files.php" afterPath="$PROJECT_DIR$/panel/app/controllers/api/files.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/controllers/views/files.php" afterPath="$PROJECT_DIR$/panel/app/controllers/views/files.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/lib/blueprint/files.php" afterPath="$PROJECT_DIR$/panel/app/lib/blueprint/files.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/snippets/pages/sidebar/files.php" afterPath="$PROJECT_DIR$/panel/app/snippets/pages/sidebar/files.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/folder.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/folder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/snippets/footer.php" afterPath="$PROJECT_DIR$/site/snippets/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/components/form.js" afterPath="$PROJECT_DIR$/panel/assets/js/components/form.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/lib/form.php" afterPath="$PROJECT_DIR$/panel/app/lib/form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/languages/fr.php" afterPath="$PROJECT_DIR$/panel/app/languages/fr.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/vendors/handlebars.js" afterPath="$PROJECT_DIR$/panel/assets/js/vendors/handlebars.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/header.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/snippets/header.php" afterPath="$PROJECT_DIR$/site/snippets/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/headline/assets/css/headline.css" afterPath="$PROJECT_DIR$/panel/app/fields/headline/assets/css/headline.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/headline/headline.php" afterPath="$PROJECT_DIR$/panel/app/fields/headline/headline.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/helpers.php" afterPath="$PROJECT_DIR$/kirby/helpers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/helpers.php" afterPath="$PROJECT_DIR$/kirby/toolkit/helpers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/helpers.php" afterPath="$PROJECT_DIR$/panel/app/helpers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/controllers/api/helpers.php" afterPath="$PROJECT_DIR$/panel/app/controllers/api/helpers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/hidden/hidden.php" afterPath="$PROJECT_DIR$/panel/app/fields/hidden/hidden.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/widgets/history/history.html.php" afterPath="$PROJECT_DIR$/panel/app/widgets/history/history.html.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/lib/history.php" afterPath="$PROJECT_DIR$/panel/app/lib/history.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/widgets/history/history.php" afterPath="$PROJECT_DIR$/panel/app/widgets/history/history.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/blueprints/home.php" afterPath="$PROJECT_DIR$/site/blueprints/home.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/templates/home.php" afterPath="$PROJECT_DIR$/site/templates/home.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/home/home.txt" afterPath="$PROJECT_DIR$/content/home/home.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/html.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/html.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/vendors/http.js" afterPath="$PROJECT_DIR$/panel/assets/js/vendors/http.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/languages/hu.php" afterPath="$PROJECT_DIR$/panel/app/languages/hu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/i.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/i.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/languages/id.php" afterPath="$PROJECT_DIR$/panel/app/languages/id.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/index.php" afterPath="$PROJECT_DIR$/panel/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/views/dashboard/index.php" afterPath="$PROJECT_DIR$/panel/app/views/dashboard/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/views/errors/index.php" afterPath="$PROJECT_DIR$/panel/app/views/errors/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/views/files/index.php" afterPath="$PROJECT_DIR$/panel/app/views/files/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/views/metatags/index.php" afterPath="$PROJECT_DIR$/panel/app/views/metatags/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/views/subpages/index.php" afterPath="$PROJECT_DIR$/panel/app/views/subpages/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/views/users/index.php" afterPath="$PROJECT_DIR$/panel/app/views/users/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/info/info.php" afterPath="$PROJECT_DIR$/panel/app/fields/info/info.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/input/input.php" afterPath="$PROJECT_DIR$/panel/app/fields/input/input.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/inputlist/inputlist.php" afterPath="$PROJECT_DIR$/panel/app/fields/inputlist/inputlist.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/controllers/views/installation.php" afterPath="$PROJECT_DIR$/panel/app/controllers/views/installation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/forms/installation.php" afterPath="$PROJECT_DIR$/panel/app/forms/installation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/layouts/installation.php" afterPath="$PROJECT_DIR$/panel/app/layouts/installation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/lib/installation.php" afterPath="$PROJECT_DIR$/panel/app/lib/installation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/languages/it.php" afterPath="$PROJECT_DIR$/panel/app/languages/it.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/vendors/jquery.autocomplete.js" afterPath="$PROJECT_DIR$/panel/assets/js/vendors/jquery.autocomplete.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/vendors/jquery.editorHelpers.js" afterPath="$PROJECT_DIR$/panel/assets/js/vendors/jquery.editorHelpers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/vendors/jquery.hotkeys.js" afterPath="$PROJECT_DIR$/panel/assets/js/vendors/jquery.hotkeys.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/vendors/jquery.js" afterPath="$PROJECT_DIR$/panel/assets/js/vendors/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/vendors/jquery.passwordsuggestion.js" afterPath="$PROJECT_DIR$/panel/assets/js/vendors/jquery.passwordsuggestion.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/vendors/jquery.serializeObject.js" afterPath="$PROJECT_DIR$/panel/assets/js/vendors/jquery.serializeObject.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/vendors/jquery.ui.js" afterPath="$PROJECT_DIR$/panel/assets/js/vendors/jquery.ui.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/vendors/jquery.ui.touch.js" afterPath="$PROJECT_DIR$/panel/assets/js/vendors/jquery.ui.touch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/vendors/jquery.view.js" afterPath="$PROJECT_DIR$/panel/assets/js/vendors/jquery.view.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/kirby.php" afterPath="$PROJECT_DIR$/kirby/kirby.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/core/kirbytag.php" afterPath="$PROJECT_DIR$/kirby/core/kirbytag.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/core/kirbytext.php" afterPath="$PROJECT_DIR$/kirby/core/kirbytext.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/l.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/l.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/branches/multilang/language.php" afterPath="$PROJECT_DIR$/kirby/branches/multilang/language.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/branches/multilang/languages.php" afterPath="$PROJECT_DIR$/kirby/branches/multilang/languages.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/snippets/languages.php" afterPath="$PROJECT_DIR$/panel/app/snippets/languages.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/lib/layout.php" afterPath="$PROJECT_DIR$/panel/app/lib/layout.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/widgets/license/license.html.php" afterPath="$PROJECT_DIR$/panel/app/widgets/license/license.html.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/license.md" afterPath="$PROJECT_DIR$/license.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/widgets/license/license.php" afterPath="$PROJECT_DIR$/panel/app/widgets/license/license.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/line/line.php" afterPath="$PROJECT_DIR$/panel/app/fields/line/line.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/views/editor/link.php" afterPath="$PROJECT_DIR$/panel/app/views/editor/link.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/exif/location.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/exif/location.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/forms/login.php" afterPath="$PROJECT_DIR$/panel/app/forms/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/layouts/login.php" afterPath="$PROJECT_DIR$/panel/app/layouts/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/apps/main.js" afterPath="$PROJECT_DIR$/panel/assets/js/apps/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/media.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/media.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/cache/driver/memcached.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/cache/driver/memcached.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/snippets/menu.php" afterPath="$PROJECT_DIR$/panel/app/snippets/menu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/snippets/menu.php" afterPath="$PROJECT_DIR$/site/snippets/menu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/components/message.js" afterPath="$PROJECT_DIR$/panel/assets/js/components/message.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/snippets/meta.php" afterPath="$PROJECT_DIR$/panel/app/snippets/meta.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/controllers/metatags.js" afterPath="$PROJECT_DIR$/panel/assets/js/controllers/metatags.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/controllers/views/metatags.php" afterPath="$PROJECT_DIR$/panel/app/controllers/views/metatags.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/extensions/methods.php" afterPath="$PROJECT_DIR$/kirby/extensions/methods.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/views/installation/migrate.php" afterPath="$PROJECT_DIR$/panel/app/views/installation/migrate.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/cache/driver/mock.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/cache/driver/mock.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/views/errors/modal.php" afterPath="$PROJECT_DIR$/panel/app/views/errors/modal.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/date/assets/js/moment.js" afterPath="$PROJECT_DIR$/panel/app/fields/date/assets/js/moment.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/branches/multilang.php" afterPath="$PROJECT_DIR$/kirby/branches/multilang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/languages/nl.php" afterPath="$PROJECT_DIR$/panel/app/languages/nl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/languages/no_nb.php" afterPath="$PROJECT_DIR$/panel/app/languages/no_nb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/number/number.php" afterPath="$PROJECT_DIR$/panel/app/fields/number/number.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/obj.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/obj.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/models/page.js" afterPath="$PROJECT_DIR$/panel/assets/js/models/page.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/branches/multilang/page.php" afterPath="$PROJECT_DIR$/kirby/branches/multilang/page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/core/page.php" afterPath="$PROJECT_DIR$/kirby/core/page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/page/page.php" afterPath="$PROJECT_DIR$/panel/app/fields/page/page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/lib/pagedata.php" afterPath="$PROJECT_DIR$/panel/app/lib/pagedata.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/lib/pageextension.php" afterPath="$PROJECT_DIR$/kirby/lib/pageextension.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/forms/pages.add.php" afterPath="$PROJECT_DIR$/panel/app/forms/pages.add.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/widgets/pages/pages.html.php" afterPath="$PROJECT_DIR$/panel/app/widgets/pages/pages.html.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/controllers/pages.js" afterPath="$PROJECT_DIR$/panel/assets/js/controllers/pages.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/core/pages.php" afterPath="$PROJECT_DIR$/kirby/core/pages.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/controllers/api/pages.php" afterPath="$PROJECT_DIR$/panel/app/controllers/api/pages.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/controllers/views/pages.php" afterPath="$PROJECT_DIR$/panel/app/controllers/views/pages.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/lib/blueprint/pages.php" afterPath="$PROJECT_DIR$/panel/app/lib/blueprint/pages.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/widgets/pages/pages.php" afterPath="$PROJECT_DIR$/panel/app/widgets/pages/pages.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/forms/pages.toggle.php" afterPath="$PROJECT_DIR$/panel/app/forms/pages.toggle.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/lib/pagestore.php" afterPath="$PROJECT_DIR$/panel/app/lib/pagestore.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/pagination.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/pagination.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/snippets/subpages/pagination.php" afterPath="$PROJECT_DIR$/panel/app/snippets/subpages/pagination.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/css/panel.css.map" afterPath="$PROJECT_DIR$/panel/assets/css/panel.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/css/panel.css" afterPath="$PROJECT_DIR$/panel/assets/css/panel.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/panel.js" afterPath="$PROJECT_DIR$/panel/assets/js/panel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/panel.php" afterPath="$PROJECT_DIR$/panel/app/panel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/panel.scss" afterPath="$PROJECT_DIR$/panel/assets/scss/panel.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/kirby/request/params.php" afterPath="$PROJECT_DIR$/kirby/kirby/request/params.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/vendors/parsedown.php" afterPath="$PROJECT_DIR$/kirby/vendors/parsedown.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/vendors/parsedownextra.php" afterPath="$PROJECT_DIR$/kirby/vendors/parsedownextra.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/password/assets/js/password.js" afterPath="$PROJECT_DIR$/panel/app/fields/password/assets/js/password.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/password.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/password.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/password/password.php" afterPath="$PROJECT_DIR$/panel/app/fields/password/password.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/kirby/request/path.php" afterPath="$PROJECT_DIR$/kirby/kirby/request/path.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/phpunit.xml" afterPath="$PROJECT_DIR$/kirby/phpunit.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/phpunit.xml" afterPath="$PROJECT_DIR$/kirby/toolkit/phpunit.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/date/assets/css/pikaday.css" afterPath="$PROJECT_DIR$/panel/app/fields/date/assets/css/pikaday.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/date/assets/js/pikaday.js" afterPath="$PROJECT_DIR$/panel/app/fields/date/assets/js/pikaday.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/languages/pl.php" afterPath="$PROJECT_DIR$/panel/app/languages/pl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/blueprints/project.php" afterPath="$PROJECT_DIR$/site/blueprints/project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/blueprints/projects.php" afterPath="$PROJECT_DIR$/site/blueprints/projects.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/languages/pt_BR.php" afterPath="$PROJECT_DIR$/panel/app/languages/pt_BR.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/languages/pt_PT.php" afterPath="$PROJECT_DIR$/panel/app/languages/pt_PT.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/kirby/request/query.php" afterPath="$PROJECT_DIR$/kirby/kirby/request/query.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/database/query.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/database/query.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/r.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/r.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/radio/radio.php" afterPath="$PROJECT_DIR$/panel/app/fields/radio/radio.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/readme.md" afterPath="$PROJECT_DIR$/kirby/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/readme.md" afterPath="$PROJECT_DIR$/kirby/toolkit/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/readme.md" afterPath="$PROJECT_DIR$/panel/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/redirect.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/redirect.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/remote.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/remote.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/views/files/replace.php" afterPath="$PROJECT_DIR$/panel/app/views/files/replace.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/kirby/request.php" afterPath="$PROJECT_DIR$/kirby/kirby/request.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/response.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/response.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/languages/ro.php" afterPath="$PROJECT_DIR$/panel/app/languages/ro.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/core/role.php" afterPath="$PROJECT_DIR$/kirby/core/role.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/core/roles.php" afterPath="$PROJECT_DIR$/kirby/core/roles.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/kirby/roots.php" afterPath="$PROJECT_DIR$/kirby/kirby/roots.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/panel/roots.php" afterPath="$PROJECT_DIR$/panel/app/panel/roots.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/router.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/router.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/config/routes.js" afterPath="$PROJECT_DIR$/panel/assets/js/config/routes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/vendors/routie.js" afterPath="$PROJECT_DIR$/panel/assets/js/vendors/routie.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/s.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/s.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/views/pages/search.php" afterPath="$PROJECT_DIR$/panel/app/views/pages/search.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/select/select.php" afterPath="$PROJECT_DIR$/panel/app/fields/select/select.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/server.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/server.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/cache/driver/session.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/cache/driver/session.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/panel/shortcuts.js" afterPath="$PROJECT_DIR$/panel/assets/js/panel/shortcuts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/views/files/show.php" afterPath="$PROJECT_DIR$/panel/app/views/files/show.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/views/pages/show.php" afterPath="$PROJECT_DIR$/panel/app/views/pages/show.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/components/sidebar.js" afterPath="$PROJECT_DIR$/panel/assets/js/components/sidebar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/snippets/pages/sidebar.php" afterPath="$PROJECT_DIR$/panel/app/snippets/pages/sidebar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/silo.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/silo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/widgets/site/site.html.php" afterPath="$PROJECT_DIR$/panel/app/widgets/site/site.html.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/branches/multilang/site.php" afterPath="$PROJECT_DIR$/kirby/branches/multilang/site.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/core/site.php" afterPath="$PROJECT_DIR$/kirby/core/site.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/widgets/site/site.php" afterPath="$PROJECT_DIR$/panel/app/widgets/site/site.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/blueprints/site.php" afterPath="$PROJECT_DIR$/site/blueprints/site.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/site.txt" afterPath="$PROJECT_DIR$/content/site.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/test/etc/content/site.txt" afterPath="$PROJECT_DIR$/kirby/test/etc/content/site.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/panel/slug.js" afterPath="$PROJECT_DIR$/panel/assets/js/panel/slug.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/vendors/smartypants.php" afterPath="$PROJECT_DIR$/kirby/vendors/smartypants.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/lib/snippet.php" afterPath="$PROJECT_DIR$/panel/app/lib/snippet.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/sql.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/sql.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/str.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/str.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/structure/assets/css/structure.css" afterPath="$PROJECT_DIR$/panel/app/fields/structure/assets/css/structure.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/structure/assets/js/structure.js" afterPath="$PROJECT_DIR$/panel/app/fields/structure/assets/js/structure.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/lib/structure.php" afterPath="$PROJECT_DIR$/kirby/lib/structure.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/structure/structure.php" afterPath="$PROJECT_DIR$/panel/app/fields/structure/structure.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/views/editor/structure.php" afterPath="$PROJECT_DIR$/panel/app/views/editor/structure.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/snippets/pages/sidebar/subpage.php" afterPath="$PROJECT_DIR$/panel/app/snippets/pages/sidebar/subpage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/snippets/subpages/subpage.php" afterPath="$PROJECT_DIR$/panel/app/snippets/subpages/subpage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/controllers/subpages.js" afterPath="$PROJECT_DIR$/panel/assets/js/controllers/subpages.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/controllers/views/subpages.php" afterPath="$PROJECT_DIR$/panel/app/controllers/views/subpages.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/lib/subpages.php" afterPath="$PROJECT_DIR$/panel/app/lib/subpages.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/snippets/pages/sidebar/subpages.php" afterPath="$PROJECT_DIR$/panel/app/snippets/pages/sidebar/subpages.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/languages/sv_SE.php" afterPath="$PROJECT_DIR$/panel/app/languages/sv_SE.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/system.php" afterPath="$PROJECT_DIR$/kirby/system.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/system.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/system.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/tags/assets/js/tags.js" afterPath="$PROJECT_DIR$/panel/app/fields/tags/assets/js/tags.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/tags/assets/js/tags.min.js" afterPath="$PROJECT_DIR$/panel/app/fields/tags/assets/js/tags.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/extensions/tags.php" afterPath="$PROJECT_DIR$/kirby/extensions/tags.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/tags/tags.php" afterPath="$PROJECT_DIR$/panel/app/fields/tags/tags.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/tel/tel.php" afterPath="$PROJECT_DIR$/panel/app/fields/tel/tel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/structure/template.php" afterPath="$PROJECT_DIR$/panel/app/fields/structure/template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/test/etc/site/accounts/test.php" afterPath="$PROJECT_DIR$/kirby/test/etc/site/accounts/test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/test/etc/content/tests/field-name-test/test.txt" afterPath="$PROJECT_DIR$/kirby/test/etc/content/tests/field-name-test/test.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/test/etc/kirbytext/multiline-parenthesis/test.txt" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/multiline-parenthesis/test.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/test/etc/kirbytext/non-matching-parenthesises/test.txt" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/non-matching-parenthesises/test.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/test/etc/kirbytext/script-tag/test.txt" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/script-tag/test.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/test/lib/testcase.php" afterPath="$PROJECT_DIR$/kirby/test/lib/testcase.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/text/text.php" afterPath="$PROJECT_DIR$/panel/app/fields/text/text.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/textarea/textarea.php" afterPath="$PROJECT_DIR$/panel/app/fields/textarea/textarea.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/thumb.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/thumb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/time/time.php" afterPath="$PROJECT_DIR$/panel/app/fields/time/time.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/timer.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/timer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/title/title.php" afterPath="$PROJECT_DIR$/panel/app/fields/title/title.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/toggle/toggle.php" afterPath="$PROJECT_DIR$/panel/app/fields/toggle/toggle.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/views/pages/toggle.php" afterPath="$PROJECT_DIR$/panel/app/views/pages/toggle.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/toolkit.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/toolkit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/snippets/topbar.php" afterPath="$PROJECT_DIR$/panel/app/snippets/topbar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/snippets/pages/topbar.php" afterPath="$PROJECT_DIR$/panel/app/snippets/pages/topbar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/snippets/pages/search/topbar.php" afterPath="$PROJECT_DIR$/panel/app/snippets/pages/search/topbar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/tpl.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/languages/tr.php" afterPath="$PROJECT_DIR$/panel/app/languages/tr.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/upload.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/upload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/views/files/upload.php" afterPath="$PROJECT_DIR$/panel/app/views/files/upload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/url.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/url.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/url/url.php" afterPath="$PROJECT_DIR$/panel/app/fields/url/url.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/views/pages/url.php" afterPath="$PROJECT_DIR$/panel/app/views/pages/url.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/kirby/urls.php" afterPath="$PROJECT_DIR$/kirby/kirby/urls.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/panel/urls.php" afterPath="$PROJECT_DIR$/panel/app/panel/urls.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/forms/user.add.php" afterPath="$PROJECT_DIR$/panel/app/forms/user.add.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/forms/user.edit.php" afterPath="$PROJECT_DIR$/panel/app/forms/user.edit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/models/user.js" afterPath="$PROJECT_DIR$/panel/assets/js/models/user.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/core/user.php" afterPath="$PROJECT_DIR$/kirby/core/user.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/fields/user/user.php" afterPath="$PROJECT_DIR$/panel/app/fields/user/user.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/controllers/users.js" afterPath="$PROJECT_DIR$/panel/assets/js/controllers/users.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/core/users.php" afterPath="$PROJECT_DIR$/kirby/core/users.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/controllers/api/users.php" afterPath="$PROJECT_DIR$/panel/app/controllers/api/users.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/controllers/views/users.php" afterPath="$PROJECT_DIR$/panel/app/controllers/views/users.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/v.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/v.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/cache/value.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/cache/value.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/lib/view.php" afterPath="$PROJECT_DIR$/panel/app/lib/view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/js/panel/views.js" afterPath="$PROJECT_DIR$/panel/assets/js/panel/views.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/routes/views.php" afterPath="$PROJECT_DIR$/panel/app/routes/views.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/visitor.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/visitor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/assets/scss/watch" afterPath="$PROJECT_DIR$/panel/assets/scss/watch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/lib/widgets.php" afterPath="$PROJECT_DIR$/panel/app/lib/widgets.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/xml.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/xml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/lib/yaml.php" afterPath="$PROJECT_DIR$/kirby/toolkit/lib/yaml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kirby/toolkit/vendors/yaml/yaml.php" afterPath="$PROJECT_DIR$/kirby/toolkit/vendors/yaml/yaml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/panel/app/languages/zh_TW.php" afterPath="$PROJECT_DIR$/panel/app/languages/zh_TW.php" />
+    </list>
+    <ignored path="wedmusic.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="wedmusic" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="welcome.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/1-welcome/welcome.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/content/1-welcome/welcome.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wedmusic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wedmusic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wedmusic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wedmusic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wedmusic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wedmusic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wedmusic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1-welcome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6b1d2d6-fb85-44e4-8505-60736412a484" name="Default" comment="" />
+      <created>1445545559974</created>
+      <option name="number" value="Default" />
+      <updated>1445545559974</updated>
+      <workItem from="1445545561119" duration="509000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="509000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/content/1-welcome/welcome.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
