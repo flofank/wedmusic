@@ -1,0 +1,17 @@
+Title: WedMusic
+
+----
+
+Author: Florian Fankhauser
+
+----
+
+Description: 
+
+----
+
+Keywords: music,wedding
+
+----
+
+Copyright: © 2015-(date: Year) Florian Fankhauser
