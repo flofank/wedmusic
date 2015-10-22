@@ -6,11 +6,16 @@
 @body-background: #111;
 @header-height: 80px;
 //@main-color: #AAA;
-@main-color: #666;
+@color-main: #666;
+@color-light: #888;
+@color-bright: #AAA;
+@font-size-main: 12pt;
+@font-size-big: 14pt;
 
 html, body {
   margin: 0;
   padding: 0;
+  width: 100%;
 }
 body {
   padding-top: @header-height;
@@ -22,14 +27,15 @@ header {
   height: @header-height;
   width: 100%;
   //background: white;
-  //box-shadow: #666 0px 1px 5px 0px;
-  background: linear-gradient(#999, #444 10%, @body-background);
+  box-shadow: #FFF 0px -12px 26px 8px;
+//  background: linear-gradient(#999, #444 10%, @body-background);
+  background: @body-background;
   div#nav {
     float: right;
     a {
       float: left;
       //color: #888;
-      color: #DDD;
+      color: @color-bright;
       line-height: @header-height;
       text-decoration: none;
       padding-right: 40px;
@@ -40,6 +46,9 @@ header {
 }
 
 section {
+  &:first-of-type {
+//    border-top: 2px solid #444;
+  }
   padding: 80px 0px;
   background: @body-background;
   &:nth-of-type(odd) {
@@ -51,14 +60,47 @@ section {
     margin: 0 auto;
     &.title {
       font-size: 45pt;
-      padding-bottom: 20px;
-      color: @main-color;
+      padding: 40px;
+      color: @color-main;
     }
     &.content {
-      color: @main-color;
+      color: @color-main;
+      font-size: @font-size-main;
       img {
         &.musician {
           width: 100%;
+        }
+      }
+      form {
+//        background: #333;
+        width: auto;
+        padding-top: 20px;
+        ul li{
+          list-style: none;
+          padding: 4px;
+          font-size: @font-size-big;
+          label {
+            padding-right: 10px;
+            text-align: left;
+            width: 200px;
+            display: inline-block;
+            vertical-align: top;
+          }
+          input, textarea {
+            background: none;
+            border: 1px solid rgba(255,255,255,0.3);
+            padding: 8px;
+            color: @color-main;
+            width: 300px;
+            max-width: 300px;
+            &[type="submit"] {
+              background: rgba(255,255,255,0.1);
+              cursor: pointer;
+              margin-top: 8px;
+              width: 218px;
+              font-weight: bold;
+            }
+          }
         }
       }
     }
@@ -81,14 +123,17 @@ footer {
   ul {
     padding: 20px;
     margin: 0 auto;
-    color: @main-color;
+    color: @color-main;
     list-style: none;
     text-align: center;
     li {
       margin: 4px;
       a {
-        color: @main-color;
+        color: @color-main;
         text-decoration: none;
+        &:hover {
+          color: @color-light;
+        }
       }
     }
   }
