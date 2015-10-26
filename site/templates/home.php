@@ -2,7 +2,7 @@
 
   <main class="main" role="main">
 
-      <?php foreach($page->parent()->children()->visible() as $subpage): ?>
+      <?php foreach($pages->visible() as $subpage): ?>
           <div class="text">
               <h1><?php echo $subpage->title()->html() ?></h1>
               <?php echo $subpage->text()->kirbytext() ?>
@@ -12,6 +12,7 @@
       <?php snippet('subpages') ?>
 
       <?php snippet('musicians') ?>
+
 
   </main>
 

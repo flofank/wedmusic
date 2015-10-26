@@ -1,0 +1,64 @@
+.audio-player {
+    display: block;
+    clear: both;
+    padding-top: 10px;
+}
+.audio-player>audio {
+    display: none;
+}
+.audio-player-element {
+    background: #333;
+    padding: 8px;
+    color: #AAA;
+    float: left;
+}
+.audio-player-element>i {
+    cursor: pointer;
+}
+.audio-player-element>i:hover {
+    font-weight: bold;
+}
+.audio-player-element.spacer-after {
+    border-right: 2px solid #444;
+}
+.audio-player-element:first-of-type {
+    -webkit-border-radius: 4px 0px 0px 4px;
+    -moz-border-radius: 4px 0px 0px 4px;
+    border-radius: 4px 0px 0px 4px;
+}
+.audio-player-element:last-of-type {
+    -webkit-border-radius: 0px 4px 4px 0px;
+    -moz-border-radius: 0px 4px 4px 0px;
+    border-radius: 0px 4px 4px 0px;
+}
+.audio-player-element.audio-player-progress {
+    padding: 8px 0px;
+    width: 300px;
+    cursor: pointer;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-size: small;
+}
+.audio-player-element.audio-player-progress>i {
+    text-overflow: ellipsis;
+    display: inline-block;
+    border-radius: 2px;
+}
+.audio-player-element.audio-player-progress>i.audio-player-progress-played {
+    background: #555;
+    width: 0%;
+}
+.audio-player-element.audio-player-volume {
+    padding: 8px 0;
+    width: 60px;
+    cursor: pointer;
+}
+.audio-player-element.audio-player-volume>i {
+    display: inline-block;
+    border-radius: 2px;
+}
+.audio-player-element.audio-player-volume>i.audio-player-volume-set  {
+    background: #555;
+    width: 100%;
+}

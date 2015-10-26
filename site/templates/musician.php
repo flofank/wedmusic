@@ -1,4 +1,4 @@
-<?php snippet('header') ?>
+  <?php snippet('header') ?>
 
   <main class="main" role="main">
 
@@ -7,6 +7,12 @@
     <ul class="meta cf">
       <li><b>Ich mache:</b> <?php echo $page->tags() ?></li>
     </ul>
+
+    <h2>Demos</h2>
+    <?php foreach($page->audio() as $audio): ?>
+      <?php snippet('audio', array('source' => $audio->url(), 'mime' => $audio->mime(), 'title' => explode(".", $audio->filename())[0])) ?>
+    <?php endforeach ?>
+    <br/> <br/>
 
     <div class="text">
       <?php echo $page->text()->kirbytext() ?>
