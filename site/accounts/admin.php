@@ -7,5 +7,6 @@ password: >
 language: en
 role: admin
 history:
+  - musicians
   - musicians/ein-musiker
   - musicians/someone-else

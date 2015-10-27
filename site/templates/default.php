@@ -7,6 +7,14 @@
       <?php echo $page->text()->kirbytext() ?>
     </div>
 
+      <ul>
+      <?php foreach($page->documents() as $document): ?>
+          <li>
+              <a href="<?php echo $document->url()?>" target="_blank"><?php echo $document->caption()?></a>
+          </li>
+      <?php endforeach ?>
+      </ul>
+
   </main>
 
 <?php snippet('footer') ?>

@@ -3,6 +3,10 @@
 title: Seite
 pages: false
 files: true
+  fields:
+    caption:
+      label: Name
+      type: text
 fields:
   title:
     label: Title
