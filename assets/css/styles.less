@@ -1,0 +1,208 @@
+* {
+  font-family: Arial;
+//  box-sizing: border-box;
+}
+
+//@body-background: #FFF;
+@body-background: #111;
+@header-height: 80px;
+//@main-color: #AAA;
+@color-main: #666;
+@color-light: #888;
+@color-bright: #AAA;
+@font-size-main: 12pt;
+@font-size-big: 14pt;
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+body {
+  @media screen and (min-width: 480px) {
+    padding-top: @header-height;
+  }
+  background: @body-background;
+}
+
+header {
+  @media screen and (max-width: 480px) {
+    display: none;
+  }
+  position: fixed;
+  top: 0px;
+  height: @header-height;
+  width: 100%;
+  //background: white;
+  box-shadow: #FEA 0px -12px 26px 8px;
+  //  background: linear-gradient(#999, #444 10%, @body-background);
+  background: @body-background;
+  div#nav {
+    float: right;
+    a {
+      float: left;
+      //color: #888;
+      color: @color-bright;
+      line-height: @header-height;
+      padding-right: 40px;
+      font-size: 20px;
+      &:hover {
+        color: #FFF;
+      }
+    }
+  }
+}
+main {
+  margin-bottom: -16px; // bugfix for white line
+}
+section {
+  padding: 80px 0px;
+  &:first-of-type {
+    padding-top: 60px;
+  }
+  background: @body-background;
+  margin: 0 auto;
+  width: 90%;
+  @media screen and (min-width: 1024px) {
+    width: 980px;
+    &:nth-of-type(even) {
+      text-align: right;
+    }
+  }
+  h1 {
+    font-size: 3em;
+    padding-bottom: 20px;
+    color: @color-main;
+    margin: 0 auto;
+    font-weight: normal;
+  }
+  >div {
+    &.content {
+      color: @color-main;
+      font-size: @font-size-main;
+      div.musician {
+        clear: both;
+        text-align: left;
+        padding-top: 50px;
+        &:first-of-type {
+          padding-top: 0px;
+        }
+
+        img {
+          padding-top: 20px;
+          width: 80%;
+        }
+        @media screen and (min-width: 1024px) {
+          span {
+            display: block;
+            width: 70%;
+            float: right;
+          }
+
+          img {
+            display: block;
+            width: 25%;
+            float: left;
+          }
+
+          &:nth-of-type(even) {
+            span {
+              float: left;
+            }
+            img {
+              float: right;
+            }
+          }
+        }
+      }
+      form {
+        //        background: #333;
+        width: auto;
+        padding-top: 20px;
+        ul li{
+          list-style: none;
+          padding: 4px;
+          font-size: @font-size-big;
+          label {
+            padding-right: 10px;
+            text-align: left;
+            width: 200px;
+            display: inline-block;
+            vertical-align: top;
+          }
+          input, textarea {
+            background: none;
+            border: 1px solid rgba(255,255,255,0.3);
+            padding: 8px;
+            color: @color-main;
+            width: 300px;
+            max-width: 300px;
+            &[type="submit"] {
+              background: rgba(255,255,255,0.1);
+              cursor: pointer;
+              margin-top: 8px;
+              width: 218px;
+              font-weight: bold;
+            }
+          }
+        }
+      }
+      ul.link-list {
+        list-style: none;
+      }
+    }
+  }
+}
+
+div.image_spacer {
+  width: 100%;
+  max-height: 600px;
+  overflow: hidden;
+  margin: -4px 0px; // bugfix for white padding if image smaller than 600px;
+  img {
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+  }
+}
+
+footer {
+  padding: 40px;
+  background: #000;
+  text-align: center;
+  color: @color-main;
+  span.small {
+    font-size: small;
+  }
+}
+
+.float_container {
+  clear: both;
+  width: 100%;
+  >.small {
+    width: 30%;
+  }
+  >.wide {
+    width: 70%;
+  }
+  >.left {
+    float: left;
+  }
+  >.right {
+    float: right;
+  }
+  &:after {
+    content:'';
+    display:block;
+    clear: both;
+  }
+}
+
+a {
+  text-decoration: none;
+  color: #762;
+  &:hover {
+    color: #DC8;
+    //            text-decoration: underline;
+  }
+}

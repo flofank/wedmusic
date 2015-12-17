@@ -1,0 +1,188 @@
+* {
+  font-family: Arial;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+body {
+  background: #111111;
+}
+@media screen and (min-width: 480px) {
+  body {
+    padding-top: 80px;
+  }
+}
+header {
+  position: fixed;
+  top: 0px;
+  height: 80px;
+  width: 100%;
+  box-shadow: #ffeeaa 0px -12px 26px 8px;
+  background: #111111;
+}
+@media screen and (max-width: 480px) {
+  header {
+    display: none;
+  }
+}
+header div#nav {
+  float: right;
+}
+header div#nav a {
+  float: left;
+  color: #aaaaaa;
+  line-height: 80px;
+  padding-right: 40px;
+  font-size: 20px;
+}
+header div#nav a:hover {
+  color: #FFF;
+}
+main {
+  margin-bottom: -16px;
+}
+section {
+  padding: 80px 0px;
+  background: #111111;
+  margin: 0 auto;
+  width: 90%;
+}
+section:first-of-type {
+  padding-top: 60px;
+}
+@media screen and (min-width: 1024px) {
+  section {
+    width: 980px;
+  }
+  section:nth-of-type(even) {
+    text-align: right;
+  }
+}
+section h1 {
+  font-size: 3em;
+  padding-bottom: 20px;
+  color: #666666;
+  margin: 0 auto;
+  font-weight: normal;
+}
+section > div.content {
+  color: #666666;
+  font-size: 12pt;
+}
+section > div.content div.musician {
+  clear: both;
+  text-align: left;
+  padding-top: 50px;
+}
+section > div.content div.musician:first-of-type {
+  padding-top: 0px;
+}
+section > div.content div.musician img {
+  padding-top: 20px;
+  width: 80%;
+}
+@media screen and (min-width: 1024px) {
+  section > div.content div.musician span {
+    display: block;
+    width: 70%;
+    float: right;
+  }
+  section > div.content div.musician img {
+    display: block;
+    width: 25%;
+    float: left;
+  }
+  section > div.content div.musician:nth-of-type(even) span {
+    float: left;
+  }
+  section > div.content div.musician:nth-of-type(even) img {
+    float: right;
+  }
+}
+section > div.content form {
+  width: auto;
+  padding-top: 20px;
+}
+section > div.content form ul li {
+  list-style: none;
+  padding: 4px;
+  font-size: 14pt;
+}
+section > div.content form ul li label {
+  padding-right: 10px;
+  text-align: left;
+  width: 200px;
+  display: inline-block;
+  vertical-align: top;
+}
+section > div.content form ul li input,
+section > div.content form ul li textarea {
+  background: none;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  padding: 8px;
+  color: #666666;
+  width: 300px;
+  max-width: 300px;
+}
+section > div.content form ul li input[type="submit"],
+section > div.content form ul li textarea[type="submit"] {
+  background: rgba(255, 255, 255, 0.1);
+  cursor: pointer;
+  margin-top: 8px;
+  width: 218px;
+  font-weight: bold;
+}
+section > div.content ul.link-list {
+  list-style: none;
+}
+div.image_spacer {
+  width: 100%;
+  max-height: 600px;
+  overflow: hidden;
+  margin: -4px 0px;
+}
+div.image_spacer img {
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+}
+footer {
+  padding: 40px;
+  background: #000;
+  text-align: center;
+  color: #666666;
+}
+footer span.small {
+  font-size: small;
+}
+.float_container {
+  clear: both;
+  width: 100%;
+}
+.float_container > .small {
+  width: 30%;
+}
+.float_container > .wide {
+  width: 70%;
+}
+.float_container > .left {
+  float: left;
+}
+.float_container > .right {
+  float: right;
+}
+.float_container:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+a {
+  text-decoration: none;
+  color: #762;
+}
+a:hover {
+  color: #DC8;
+}

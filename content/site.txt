@@ -14,4 +14,4 @@ Keywords: music,wedding
 
 ----
 
-Copyright: © 2015-(date: Year) Florian Fankhauser
+Copyright: © 2015 Florian Fankhauser

@@ -7,22 +7,22 @@
         <i class="fa fa-play"></i>
         <i class="fa fa-pause" style="display: none"></i>
     </div>
-    <div class="audio-player-element">
+    <div class="audio-player-element hide-mobile">
         <i class="played">00:00</i>
     </div>
     <div class="audio-player-element audio-player-progress">
         <i class="audio-player-progress-played">&nbsp;&nbsp;<?php echo $title?></i>
     </div>
-    <div class="audio-player-element spacer-after">
+    <div class="audio-player-element spacer-after hide-mobile">
         <i class="duration">00:00</i>
     </div>
-    <div class="audio-player-element">
+    <div class="audio-player-element hide-mobile">
         <i class="fa fa-volume-down"></i>
     </div>
-    <div class="audio-player-element audio-player-volume">
+    <div class="audio-player-element audio-player-volume hide-mobile">
         <i class="audio-player-volume-set">&nbsp;</i>
     </div>
-    <div class="audio-player-element">
+    <div class="audio-player-element hide-mobile">
         <i class="fa fa-volume-up"></i>
     </div>
 </div>

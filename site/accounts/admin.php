@@ -8,5 +8,6 @@ language: en
 role: admin
 history:
   - musicians
+  - home
   - musicians/ein-musiker
   - musicians/someone-else

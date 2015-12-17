@@ -11,6 +11,7 @@
     padding: 8px;
     color: #AAA;
     float: left;
+    line-height: 18px;
 }
 .audio-player-element>i {
     cursor: pointer;
@@ -33,7 +34,7 @@
 }
 .audio-player-element.audio-player-progress {
     padding: 8px 0px;
-    width: 300px;
+    width: 350px;
     cursor: pointer;
     overflow: hidden;
     white-space: nowrap;
@@ -61,4 +62,15 @@
 .audio-player-element.audio-player-volume>i.audio-player-volume-set  {
     background: #555;
     width: 100%;
+}
+@media screen and (max-width: 680px) {
+    .audio-player-element.hide-mobile {
+        display: none;
+    }
+    .audio-player-element.audio-player-progress {
+        width: 80%;
+        -webkit-border-radius: 0px 4px 4px 0px;
+        -moz-border-radius: 0px 4px 4px 0px;
+        border-radius: 0px 4px 4px 0px;
+    }
 }
