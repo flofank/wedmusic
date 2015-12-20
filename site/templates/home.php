@@ -28,6 +28,10 @@
                               </li>
                           <?php endforeach ?>
                       </ul>
+
+                      <?php foreach($subpage->audio() as $audio): ?>
+                          <?php snippet('audio', array('source' => $audio->url(), 'mime' => $audio->mime(), 'title' => explode(".", $audio->filename())[0])) ?>
+                      <?php endforeach ?>
                   </div>
               </section>
           <?php
