@@ -3,11 +3,14 @@
 username: admin
 email: fankiflo@gmail.com
 password: >
-  $2a$10$Ceebk6bygRHwxuVF5YHpzOfHHqJ2D2KmzvE4JlRj59xhzSF8XIiCO
+  $2a$10$PC8yidA4609BFdYg6QGlXe0iyR7LmVZrMu0EcBRscqZAWamAHg8Cu
 language: en
 role: admin
 history:
+  - offer
   - musicians
-  - home
+  - welcome
+  - musicians/someone
   - musicians/ein-musiker
-  - musicians/someone-else
+firstname:
+lastname:

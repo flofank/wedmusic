@@ -1,6 +1,12 @@
 * {
   font-family: Arial;
 }
+/*
+ Dark Theme
+ */
+/*
+ Light Theme
+ */
 html,
 body {
   margin: 0;
@@ -8,45 +14,71 @@ body {
   width: 100%;
 }
 body {
-  background: #111111;
+  background: #111;
 }
 @media screen and (min-width: 480px) {
   body {
-    padding-top: 80px;
+    padding-top: 70px;
   }
 }
 header {
   position: fixed;
   top: 0px;
-  height: 80px;
+  height: 70px;
   width: 100%;
-  box-shadow: #ffeeaa 0px -12px 26px 8px;
-  background: #111111;
+  box-shadow: #FFD788 0px -12px 26px 8px;
+  background: #111 url("../images/goldenroses_small.png") no-repeat 20px center;
 }
 @media screen and (max-width: 480px) {
   header {
     display: none;
   }
 }
-header div#nav {
+header div.menu {
   float: right;
 }
-header div#nav a {
+header div.menu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+header div.menu ul li {
   float: left;
-  color: #aaaaaa;
-  line-height: 80px;
+  line-height: 70px;
   padding-right: 40px;
+}
+header div.menu ul li a {
+  color: #AAA;
   font-size: 20px;
 }
-header div#nav a:hover {
+header div.menu ul li a:hover {
   color: #FFF;
+}
+header div.menu#languages ul {
+  padding-right: 20px;
+}
+header div.menu#languages ul li {
+  padding-right: 8px;
+}
+header div.menu#languages ul li a {
+  display: inline-block;
+  width: 16px;
+  height: 11px;
+}
+header div.menu#languages ul li a#lang_en {
+  background: url("../images/languages.jpg") no-repeat -6px -8px;
+}
+header div.menu#languages ul li a#lang_de {
+  background: url("../images/languages.jpg") no-repeat -286px -120px;
+}
+header div.menu#languages ul li a#lang_fr {
+  background: url("../images/languages.jpg") no-repeat -230px -176px;
 }
 main {
   margin-bottom: -16px;
 }
 section {
   padding: 80px 0px;
-  background: #111111;
   margin: 0 auto;
   width: 90%;
 }
@@ -64,12 +96,12 @@ section:first-of-type {
 section h1 {
   font-size: 3em;
   padding-bottom: 20px;
-  color: #666666;
+  color: #666;
   margin: 0 auto;
   font-weight: normal;
 }
 section > div.content {
-  color: #666666;
+  color: #666;
   font-size: 12pt;
 }
 section > div.content div.musician {
@@ -123,7 +155,7 @@ section > div.content form ul li textarea {
   background: none;
   border: 1px solid rgba(255, 255, 255, 0.3);
   padding: 8px;
-  color: #666666;
+  color: #666;
   width: 300px;
   max-width: 300px;
 }
@@ -140,7 +172,9 @@ section > div.content ul.link-list {
 }
 div.image_spacer {
   width: 100%;
-  max-height: 600px;
+  height: 600px;
+  background-attachment: fixed;
+  background-size: cover;
   overflow: hidden;
   margin: -4px 0px;
 }
@@ -151,9 +185,9 @@ div.image_spacer img {
 }
 footer {
   padding: 40px;
-  background: #000;
+  background: #111;
   text-align: center;
-  color: #666666;
+  color: #666;
 }
 footer span.small {
   font-size: small;

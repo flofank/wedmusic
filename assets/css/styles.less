@@ -3,13 +3,30 @@
 //  box-sizing: border-box;
 }
 
-//@body-background: #FFF;
+
+/*
+ Dark Theme
+ */
 @body-background: #111;
-@header-height: 80px;
-//@main-color: #AAA;
 @color-main: #666;
 @color-light: #888;
 @color-bright: #AAA;
+@color-shadow: #FFD788;
+@color-full: #FFF;
+
+
+/*
+ Light Theme
+ */
+//@body-background: #FFF;
+//@color-main: #888;
+//@color-light: #666;
+//@color-bright: #333;
+//@color-full: #000;
+//@color-shadow: #666;
+
+
+@header-height: 70px;
 @font-size-main: 12pt;
 @font-size-big: 14pt;
 
@@ -34,20 +51,48 @@ header {
   height: @header-height;
   width: 100%;
   //background: white;
-  box-shadow: #FEA 0px -12px 26px 8px;
+  box-shadow: @color-shadow 0px -12px 26px 8px;
   //  background: linear-gradient(#999, #444 10%, @body-background);
-  background: @body-background;
-  div#nav {
+  background: @body-background url("../images/goldenroses_small.png") no-repeat 20px center;
+  div.menu {
     float: right;
-    a {
-      float: left;
-      //color: #888;
-      color: @color-bright;
-      line-height: @header-height;
-      padding-right: 40px;
-      font-size: 20px;
-      &:hover {
-        color: #FFF;
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      li {
+        float: left;
+        line-height: @header-height;
+        padding-right: 40px;
+        a {
+          color: @color-bright;
+          font-size: 20px;
+          &:hover {
+            color: @color-full;
+          }
+        }
+      }
+    }
+    &#languages {
+      ul {
+        padding-right: 20px;
+        li {
+          padding-right: 8px;
+          a {
+            display: inline-block;
+            width: 16px;
+            height: 11px;
+            &#lang_en {
+              background: url("../images/languages.jpg") no-repeat -6px -8px;
+            }
+            &#lang_de {
+              background: url("../images/languages.jpg") no-repeat -286px -120px;
+            }
+            &#lang_fr {
+              background: url("../images/languages.jpg") no-repeat -230px -176px;
+            }
+          }
+        }
       }
     }
   }
@@ -60,7 +105,6 @@ section {
   &:first-of-type {
     padding-top: 60px;
   }
-  background: @body-background;
   margin: 0 auto;
   width: 90%;
   @media screen and (min-width: 1024px) {
@@ -156,7 +200,9 @@ section {
 
 div.image_spacer {
   width: 100%;
-  max-height: 600px;
+  height: 600px;
+  background-attachment: fixed;
+  background-size: cover;
   overflow: hidden;
   margin: -4px 0px; // bugfix for white padding if image smaller than 600px;
   img {
@@ -168,7 +214,7 @@ div.image_spacer {
 
 footer {
   padding: 40px;
-  background: #000;
+  background: @body-background;
   text-align: center;
   color: @color-main;
   span.small {

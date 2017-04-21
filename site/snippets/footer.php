@@ -13,4 +13,5 @@
 <?php echo js('assets/js/jquery-2.1.4.min.js') ?>
 <?php echo js('assets/js/audio-player.js') ?>
 <?php echo js('assets/js/smooth-scroll.js') ?>
+<?php echo js('assets/js/parallax.js') ?>
 </html>
