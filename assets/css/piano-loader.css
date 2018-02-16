@@ -1,0 +1,41 @@
+
+#piano-loader {
+    z-index: 99;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #111111;
+}
+
+#piano-loader.hidden {
+    z-index: -1;
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 1s, z-index 1s, opacity 0.5s linear;
+}
+
+#piano-loader_container {
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+#piano-loader_container h1 {
+    text-align: center;
+    color: #eeeeee;
+    margin: 0 auto;
+    font-family: sans-serif;
+    font-size: 16pt;
+    font-weight: normal;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+#piano-loader_piano {
+    display: block;
+    margin: 0 auto;
+}

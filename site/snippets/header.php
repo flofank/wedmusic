@@ -9,12 +9,13 @@
   <meta name="description" content="<?php echo $site->description()->html() ?>">
   <meta name="keywords" content="<?php echo $site->keywords()->html() ?>">
 
+
   <?php echo css('assets/css/styles.css') ?>
   <?php echo css('assets/css/font-awesome.min.css') ?>
   <?php echo css('assets/css/audio-player.css') ?>
+  <?php echo css('assets/css/piano-loader.css') ?>
 </head>
 <body>
-
   <header class="header cf" role="banner">
     <a class="logo" href="<?php echo url() ?>">
 <!--      <img src="--><?php //echo url('assets/images/logo.svg') ?><!--" alt="--><?php //echo $site->title()->html() ?><!--" />-->
